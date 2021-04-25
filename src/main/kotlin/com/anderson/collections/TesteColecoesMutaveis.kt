@@ -2,7 +2,7 @@ package com.anderson.collections
 
 fun main() {
     val joel = Funcionario("joel", 2000.0, "CLT")
-    val elen = Funcionario("Elem", 1500.0, "PJ")
+    val elen = Funcionario("Elen", 1500.0, "PJ")
     val rouge = Funcionario("Rouge", 4000.0, "CLT")
 
     val funcionario = mutableListOf(joel, rouge)
